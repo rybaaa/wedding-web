@@ -9,7 +9,6 @@ import DressCode from './components/DressCode';
 import InsteadOfFlowers from './components/InsteadOfFlowers';
 import AboutGifts from './components/AboutGifts';
 import Questions from './components/Questions';
-import Gallery from './components/Gallery';
 import Footer from './components/Footer';
 import RsvpForm from './components/RsvpForm';
 
@@ -17,7 +16,6 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-custom-bg font-body text-custom-text">
       <Header />
-      {/* Logo positioned below header in top left corner */}
       <Hero />
       <Place />
       <Plan />
