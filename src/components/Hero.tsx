@@ -1,13 +1,9 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { ChevronDown } from 'lucide-react';
-// @ts-ignore
 import pic from '../assets/pic.jpg';
-// @ts-ignore
 import pic2 from '../assets/pic2.jpg';
-// @ts-ignore
 import pic3 from '../assets/pic3.jpg';
-// @ts-ignore
 import logo from '../assets/logo.png';
 import { sectionVariants } from '../utils/sectionVariants';
 
@@ -68,7 +64,6 @@ const Hero: React.FC = () => {
         >
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {/* Photo 1 */}
-            // @ts-ignore
             <motion.div custom={0}
             //@ts-ignore
             variants={photoVariants} className="rounded-[10px] overflow-hidden shadow-lg bg-white aspect-[3/4]">
@@ -94,7 +89,6 @@ const Hero: React.FC = () => {
             </motion.div>
 
             {/* Photo 3 */}
-            // @ts-ignore
             <motion.div custom={2}
             //@ts-ignore
             variants={photoVariants} className="rounded-[10px] overflow-hidden shadow-lg bg-white aspect-[3/4]">

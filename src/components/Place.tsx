@@ -1,8 +1,6 @@
 import React from 'react';
 import { MapPin } from 'lucide-react';
-// @ts-ignore
-import agro2 from '../assets/agro2.WEBP';
-// @ts-ignore
+import agro2 from '../assets/agro2.webp';
 import agro3 from '../assets/agro3.jpg';
 import { motion } from 'framer-motion';
 import { sectionVariants } from '../utils/sectionVariants';
