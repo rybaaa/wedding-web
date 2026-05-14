@@ -10,8 +10,6 @@ interface ImportMeta {
   readonly env: ImportMetaEnv
 }
 
-/// <reference types="vite/client" />
-// declarations.d.ts
 declare module '*.css';
 declare module '*.scss';
 declare module '*.png';

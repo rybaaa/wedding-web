@@ -1,6 +1,8 @@
 import React from 'react';
 import { MapPin } from 'lucide-react';
+// @ts-ignore
 import agro2 from '../assets/agro2.WEBP';
+// @ts-ignore
 import agro3 from '../assets/agro3.jpg';
 import { motion } from 'framer-motion';
 import { sectionVariants } from '../utils/sectionVariants';
@@ -61,6 +63,7 @@ const Place: React.FC = () => {
           initial="hidden"
           whileInView="visible"
           viewport={{ once: true, amount: 0.3 }}
+          // @ts-ignore
           variants={sectionVariants}
           >
           {/* First image - positioned top left */}

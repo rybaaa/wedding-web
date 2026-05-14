@@ -72,9 +72,12 @@ const RsvpForm: React.FC = () => {
 
     try {
       await emailjs.send(
+        // @ts-ignore
         import.meta.env.VITE_EMAILJS_SERVICE_ID,
+        // @ts-ignore
         import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
         templateParams,
+        // @ts-ignore
         import.meta.env.VITE_EMAILJS_PUBLIC_KEY
       );
       
