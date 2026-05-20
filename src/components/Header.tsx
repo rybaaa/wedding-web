@@ -28,7 +28,7 @@ const Header: React.FC = () => {
             onClick={() => scrollToSection('rsvp')}
             className="text-custom-text hover:text-custom-button font-medium transition-colors"
           >
-            Форма
+            Reply
           </button>
         </div>
       </nav>
