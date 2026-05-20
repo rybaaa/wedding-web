@@ -15,7 +15,7 @@ const Place: React.FC = () => {
         </h3>
         
         {/* Date - Large */}
-        <h2 className="text-center text-4xl md:text-5xl font-title text-custom-text mb-8">
+        <h2 className="text-center text-4xl text-[#7A8F7B] md:text-5xl font-title text-custom-text mb-8">
           26 августа 2026
         </h2>
 
