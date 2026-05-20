@@ -4,7 +4,7 @@ const AboutGifts: React.FC = () => {
   return (
     <section id="about-gifts" className="py-8 px-4 bg-custom-bg">
       <div className="container mx-auto max-w-4xl">
-        <h2 className="text-3xl font-title text-custom-text mb-2 text-center">
+        <h2 className="text-3xl font-title text-custom-text mb-2 text-center text-[36px]">
           Про подарки
         </h2>
 

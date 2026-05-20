@@ -4,7 +4,7 @@ const NextDay: React.FC = () => {
   return (
     <section id="next-day" className="py-4 px-4 bg-custom-bg">
       <div className="container mx-auto max-w-4xl">
-        <h2 className="text-4xl font-title text-custom-text mb-2 text-center text-[18px]">
+        <h2 className="text-4xl font-title text-custom-text mb-2 text-center text-[32px]">
           На следующий день
         </h2>
 
