@@ -2,7 +2,7 @@ import React from 'react';
 
 const SecondDay: React.FC = () => {
   return (
-    <section id="second-day" className="py-2 px-4 bg-custom-bg">
+    <section id="second-day" className="py-2 pt-4 px-4 bg-custom-bg">
       <div className="container mx-auto max-w-4xl">
         <h2 className="text-4xl font-title text-custom-text mb-2 text-center text-[32px]">
           Остаться на ночь
