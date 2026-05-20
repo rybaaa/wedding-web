@@ -8,7 +8,7 @@ const SecondDay: React.FC = () => {
           Остаться на ночь
         </h2>
 
-        <div className="max-w-3xl mx-auto text-center space-y-2 text-custom-text text-lg">
+        <div className="max-w-3xl mx-auto text-center space-y-2 text-custom-text text-[18px]">
           <p>
             Для гостей предусмотрено проживание на одну ночь.
           </p>
