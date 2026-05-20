@@ -10,9 +10,6 @@ const NextDay: React.FC = () => {
 
         <div className="max-w-4xl mx-auto text-center space-y-2 text-custom-text leading-relaxed">
           <p>
-            Если вам захочется остаться с нами и на второй день, мы будем очень рады.
-          </p>
-          <p>
             Это будет продолжение праздника - без формальностей, но с настроением.
           </p>
           <p>
