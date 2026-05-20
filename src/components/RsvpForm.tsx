@@ -105,7 +105,7 @@ const RsvpForm: React.FC = () => {
 
   return (
     <div id="rsvp" className="bg-white rounded-[10px] shadow-lg p-6 md:p-8 max-w-2xl mx-auto">
-      <h2 className="text-2xl md:text-3xl font-title text-custom-text mb-4 text-center">
+      <h2 className="text-4xl md:text-3xl font-title text-custom-text mb-4 text-center">
         Дайте нам знать
       </h2>
       <span className='text-1xl md:text-2xl italic text-custom-text text-center mb-6 block'>
