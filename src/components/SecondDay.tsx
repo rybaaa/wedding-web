@@ -4,11 +4,11 @@ const SecondDay: React.FC = () => {
   return (
     <section id="second-day" className="py-2 px-4 bg-custom-bg">
       <div className="container mx-auto max-w-4xl">
-        <h2 className="text-4xl font-title text-custom-text mb-2 text-center">
+        <h2 className="text-4xl font-title text-custom-text mb-2 text-center text-[32px]">
           Остаться на ночь
         </h2>
 
-        <div className="max-w-3xl mx-auto text-center space-y-2 text-custom-text text-[18px]">
+        <div className="max-w-3xl mx-auto text-center space-y-2 text-custom-text text-[16px]">
           <p>
             Для гостей предусмотрено проживание на одну ночь.
           </p>

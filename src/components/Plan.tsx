@@ -26,7 +26,7 @@ const Plan: React.FC = () => {
             <p>Церемония</p>
           </div>
 
-          <div className="">
+          <div className="text-[16px]">
             <p className="leading-relaxed">
               Дальше - ужин, разговоры, смех, танцы и длинный летний вечер,<br />
               который может продолжиться до 2–3 часов ночи.
