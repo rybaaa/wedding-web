@@ -22,8 +22,8 @@ const App: React.FC = () => {
       <SecondDay />
       <NextDay />
       <DressCode />
-      <InsteadOfFlowers />
       <AboutGifts />
+      <InsteadOfFlowers />
       <RsvpForm></RsvpForm>
       <Questions></Questions>
       <Footer />
